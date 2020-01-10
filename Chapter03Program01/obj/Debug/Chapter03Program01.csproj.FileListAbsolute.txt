@@ -1,0 +1,10 @@
+C:\Andres\Chapter03Program01\Chapter03Program01\bin\Debug\Chapter03Program01.exe.config
+C:\Andres\Chapter03Program01\Chapter03Program01\bin\Debug\Chapter03Program01.exe
+C:\Andres\Chapter03Program01\Chapter03Program01\bin\Debug\Chapter03Program01.pdb
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.csprojAssemblyReference.cache
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.Form1.resources
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.Properties.Resources.resources
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.csproj.GenerateResource.cache
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.csproj.CoreCompileInputs.cache
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.exe
+C:\Andres\Chapter03Program01\Chapter03Program01\obj\Debug\Chapter03Program01.pdb
